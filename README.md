@@ -4,4 +4,4 @@ This repo has few important notebooks
 
 - [Colab PySpark notebook]()
 - [Colab Java notebook]()
-- [Feature encoding notebook](./Notebook%20sklearn%20encoding.ipynb)
+- [Feature encoding notebook](./Notebook_sklearn_encoding.ipynb)
